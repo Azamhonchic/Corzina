@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+ }
+.container{
+    width: 100%;
+    margin: 0 auto;
+}
+.port{
+    width: 500px;
+}
+.bottom{
+    width: 500px;
+    height: 500px;
+    background-color: #78BB7B;
+}
+.top{
+    width: 550px;
+    height: 445px;
+    /* background-color: red; */
+}
+.btn{
+    border-radius: 20px;
+    border: none;
+    background-color: #007ACC;
+    width: 200px;
+    height: 100px;
+    cursor: pointer;
+    
+}
+.btn:hover {
+    box-shadow: 5px 5px 5px 5px #484848;
+}
